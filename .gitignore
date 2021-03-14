@@ -3,3 +3,6 @@ index.css
 
 # 忽略tst目录下所有的文件
 tst/
+
+#忽略操作历史记录.txt
+操作历史记录.txt
